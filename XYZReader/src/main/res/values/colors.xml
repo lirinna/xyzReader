@@ -18,8 +18,14 @@
 <resources>
     <color name="photo_placeholder">#ccc</color>
 
-    <color name="primary">#aa00ff</color>
-    <color name="primary_dark">#7200ca</color>
-    <color name="accent">#e254ff</color>
-    <color name="ltgray">#ffe0e0e0</color>
+    <color name="primary">#5c6bc0</color>
+    <color name="primary_dark">#26418f</color>
+    <color name="accent">#8e99f3</color>
+
+    <color name="textDarkPrimary">#DE000000</color> <!--DE for %87 opacity-->
+    <color name="textDarkSecondary">#8A000000</color> <!--8A for %54 opacity-->
+
+    <color name="textLightPrimary">#FFFFFF</color> <!--%100 opacity-->
+    <color name="textLightSecondary">#B2FFFFFF</color> <!--B2 for %70 opacity-->
+
 </resources>
