@@ -19,6 +19,7 @@
         android:layout_height="wrap_content"
         android:elevation="4dp">
 
+        <!-- https://guides.codepath.com/android/Handling-Scrolls-with-CoordinatorLayout -->
         <android.support.design.widget.CollapsingToolbarLayout
             android:id="@+id/collapsing_toolbar"
             android:layout_width="match_parent"

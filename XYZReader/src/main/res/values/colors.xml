@@ -22,9 +22,9 @@
     <color name="primary_dark">#26418f</color>
     <color name="accent">#8e99f3</color>
 
+    <!-- https://gist.github.com/jemshit/0e755f9a5669fe78d0e2 -->
     <color name="textDarkPrimary">#DE000000</color> <!--DE for %87 opacity-->
     <color name="textDarkSecondary">#8A000000</color> <!--8A for %54 opacity-->
-
     <color name="textLightPrimary">#FFFFFF</color> <!--%100 opacity-->
     <color name="textLightSecondary">#B2FFFFFF</color> <!--B2 for %70 opacity-->
 
