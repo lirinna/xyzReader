@@ -4,11 +4,3 @@
 
 In this project, you will redesign an app to follow the Material Design guidelines and translate a set of static design mocks to a living and breathing app.
 
-
-### New Design
-
-
-
-### Starter Code
-
-<img src="https://user-images.githubusercontent.com/37187549/41711328-2aa7b364-7548-11e8-8c3d-3d790adc9746.png" width="250"><img src="https://user-images.githubusercontent.com/37187549/41711384-4c27c754-7548-11e8-887a-b4def1216134.png" width="250">
